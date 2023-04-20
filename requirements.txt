@@ -1,0 +1,4 @@
+Django
+google-cloud-secret-manager
+gunicorn
+psycopg

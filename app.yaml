@@ -1,0 +1,7 @@
+runtime: python311
+
+entrypoint: gunicorn -b :$PORT kaimeraworks.wsgi:application
+
+handlers:
+  - url: /static
+    static_dir: static/
