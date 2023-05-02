@@ -85,7 +85,7 @@ if getenv("GOOGLE_CLOUD_PROJECT"):
         'default': {
             'ENGINE': 'django.db.backends.postgresql',
             'NAME': 'kaimeraworks',
-            'HOST': '/cloudsql/kaimaeraworks:us-west1:kaimeraworks',
+            'HOST': '/cloudsql/kaimeraworks:us-west1:kaimeraworks',
             'USER': 'kaimeraworks',
             'PASSWORD': kaimeraworks_password
         }
