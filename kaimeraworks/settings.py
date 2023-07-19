@@ -145,3 +145,8 @@ STATIC_ROOT = "static"
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+# Additional
+
+LOGIN_REDIRECT_URL = 'mission_control:initial'
+LOGIN_URL = 'main_page:login'
