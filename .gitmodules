@@ -1,0 +1,6 @@
+[submodule "mission_control"]
+	path = mission_control
+	url = git@github.com:KaimeraWorks/KaimeraWorks-Mission-Control.git
+[submodule "main_page"]
+	path = main_page
+	url = git@github.com:KaimeraWorks/KaimeraWorks-Main-Page.git
