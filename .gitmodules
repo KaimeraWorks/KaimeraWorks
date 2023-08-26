@@ -4,3 +4,6 @@
 [submodule "main_page"]
 	path = main_page
 	url = git@github.com:KaimeraWorks/KaimeraWorks-Main-Page.git
+[submodule "polyglot"]
+	path = polyglot
+	url = git@github.com:KaimeraWorks/KaimeraWorks-Polyglot.git
